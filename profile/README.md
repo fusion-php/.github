@@ -1,8 +1,8 @@
 <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fusion-php/.github/refs/heads/main/art/logo-dark.png?token=GHSAT0AAAAAACRTGAJL5KJ5K2CFNUR5OIKCZ42STLA">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fusion-php/.github/refs/heads/main/art/logo-light.png?token=GHSAT0AAAAAACRTGAJK5LGYARMULMHZ25JIZ42STVQ">
-      <img alt="Fusion for Laravel" src="https://raw.githubusercontent.com/fusion-php/.github/refs/heads/main/art/logo-light.png?token=GHSAT0AAAAAACRTGAJK5LGYARMULMHZ25JIZ42STVQ" style="max-width: 80%; height: auto;">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fusion-php/.github/refs/heads/main/art/logo-dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fusion-php/.github/refs/heads/main/art/logo-light.png">
+      <img alt="Fusion for Laravel" src="https://raw.githubusercontent.com/fusion-php/.github/refs/heads/main/art/logo-light.png" style="max-width: 80%; height: auto;">
     </picture>
 </p>
 
